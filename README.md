@@ -1,2 +1,2 @@
 # villahormiga.com 
-# repositorios de contenido publicado en el sitio educativo villahormiga.com
+Repositorios de contenido publicado en el sitio educativo villahormiga.com
